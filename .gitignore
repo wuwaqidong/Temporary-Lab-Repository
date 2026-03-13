@@ -1,0 +1,6 @@
+*.o
+factorial
+build/
+*.exe
+.DS_Store
+.vscode/
